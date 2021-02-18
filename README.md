@@ -8,6 +8,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
 </p>
 
+More about me:
+
 - 👨‍💻 All of my projects are available at here my github or <a href="https://bitbucket.com/michaeldnf">bitbucket</a>
 
 - 🔧 Working with **JavaScript, HTML, CSS, VueJS**
@@ -15,6 +17,14 @@
 - 📫 How to reach me **michaeldnf@gmail.com**
 
 - ⚡ Curiosity in **everything** you do 😜
+
+</br>
+
+<details>
+  </br>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldnf&layout=compact&bg_color=333333&text_color=ffffff">
+</details>
 
 </br>
 
